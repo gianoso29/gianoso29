@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo Gianfranco</h1>
+<h1 align="center">Hola 👋, Me llamo Gianfranco</h1>
 <h3 align="center">Soy un frontend apasionado</h3>
 
 - 💬 Ask me about **html, css y Javascript**
