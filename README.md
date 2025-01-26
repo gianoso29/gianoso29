@@ -9,7 +9,7 @@
 
 <p>
   <img src="coding-typing.gif" align="right" style="width: 200px; height: 200px; object-fit: cover; margin-left: 15px; border-radius: 15px;" />
-  Actualmente estoy cursando el **décimo semestre de Ingeniería de Sistemas**, y me apasiona el desarrollo frontend.  
+  Soy estudiante de la universidad Continental, actualmente estoy cursando el **décimo semestre de Ingeniería de Sistemas**, y me apasiona el desarrollo frontend.  
   Disfruto aprender nuevas tecnologías, resolver problemas desafiantes y colaborar en proyectos que marquen la diferencia.  
   En mi tiempo libre, me gusta explorar nuevas herramientas y mejorar mis habilidades en diseño y desarrollo web.
 </p>
